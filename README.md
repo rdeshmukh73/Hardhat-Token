@@ -1,9 +1,13 @@
 # 🪙 Hardhat RDT Token Project (Solidity + Python)
 
 This is a v0 of full-stack blockchain project that uses **Solidity** to define a custom ERC-20–like token (`RDT`), **Hardhat** for smart contract deployment/testing, **Flask** for backend APIs, and **Streamlit** for a simple UI.
-This is developed as an introduction to Blockchain for Students (at PES University) who have no knowledge yet of Blockchain and would like to use a small experimental Smart Contract to get a quick understanding of using Solidity and wrap it in an API layer and access it via a UI Client.
+This is developed as an introduction to Blockchain for Students (at **PES University**) who have no knowledge yet of Blockchain and would like to use a small experimental Smart Contract to get a quick understanding of using Solidity and wrap it in an API layer and access it via a UI Client.
 
 ---
+
+## References
+
+## https://hardhat.org/tutorial
 
 ## 📁 Project Structure
 
