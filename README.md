@@ -5,9 +5,11 @@ This is developed as an introduction to Blockchain for Students (at **PES Univer
 
 ---
 
-## References
+## 🔗 References
 
 ## https://hardhat.org/tutorial
+
+---
 
 ## 📁 Project Structure
 
